@@ -1,7 +1,7 @@
 {
     "name": "dvc/contao-plenta-jobs-select-widget",
     "description": "Contao form widget for selecting job offers from Plenta Jobs bundle",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "contao-bundle",
     "license": "MIT",
     "authors": [

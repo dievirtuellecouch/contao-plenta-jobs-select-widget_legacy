@@ -14,7 +14,7 @@ class JobsSelectWidget extends Widget
 
     protected $blnSubmitInput = true;
     protected $blnForAttribute = true;
-    protected $strTemplate = 'form_select';
+    protected $strTemplate = 'form_job_select';
 
     public function __construct($arrAttributes = null)
     {
